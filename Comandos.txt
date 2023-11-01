@@ -1,0 +1,3 @@
+Abrir entorno virtual: python3 -m venv IAProyec-env
+Activar entorno viertual: IAProyec-env\Scripts\activate.bat
+Ejecutar servidor: uvicorn main:app --reload
